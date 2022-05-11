@@ -15,6 +15,7 @@ More info: https://biomine.xyz/
 - Mass spectrometry-based metabolomics data recorded in vendor-specific formats
 - For exchangeability most often converted to XML schema-based format 
   - https://www.psidev.info/mzML
+  - example_data/raw_14HM225.mzML
 - Could also be represented as rows and columns in a relational database
 - Metadata concerning individuals could be part of database 
   - Recorded personal information and surveys
