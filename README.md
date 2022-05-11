@@ -26,7 +26,7 @@ More info: https://biomine.xyz/
 ## Governance
 - Data is recorded (anonymized) by lab 
 - Only user can assemble shards back into a full data set 
-- Researchers can get one-time to the data if the user so chooses
+- Researchers gain one-time access to the data if the user so chooses
   - Only able to access metadata they bargained for 
 - Data sharing is easy and transparent
 
