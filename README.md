@@ -1,4 +1,4 @@
-# Biomine Blockchain
+# Biomine Goals
 - Incentivize people to share metabolomics & exposomics data to
   - Enable population-scale studies 
   - Enable post theory science
