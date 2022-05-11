@@ -36,4 +36,5 @@ More info: https://biomine.xyz/
 - Contributers (Bioneers) earn token for sharing data
 
 # Tasks
+- Learn about metabolomics (data)
 - Flesh out a concept 
