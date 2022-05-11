@@ -1,33 +1,35 @@
 # Biomine Blockchain
-- incentivize people to share metabolomics & exposomics data to
-  - enable population-scale studies 
-  - enable post theory science
-  - enable personalized health
-- create a data marketplace to 
-  - enable DeSci
+- Incentivize people to share metabolomics & exposomics data to
+  - Enable population-scale studies 
+  - Enable post theory science
+  - Enable personalized health
+- Create a data marketplace to 
+  - Enable DeSci
+- **Screen metabolites of blue zone population to**
+  - **Find signatures responsible for longevity** 
 
 More info: https://biomine.xyz/
 
 # Specifications
-- Metabolomics (mass spectrometry) data can be represented as rows and columns in a relational database
-  - List papers (mzDB, mzMLb, stack something) ?
-  - upload data
-- Metadata part of databse (recorded personal information and surveys)
-  - like 23 and me give examples
+- Mass spectrometry-based metabolomics data recorded in vendor-specific formats
+- For exchangeability most often converted to XML schema-based format https://www.psidev.info/mzML
+- Could also be represented as rows and columns in a relational database
+- Metadata concerning individuals could be part of database 
+  - Recorded personal information and surveys
 
 ## Storage
 - Store database rows as encrypted distributed shards 
 
 ## Governance
 - Data is recorded (anonymized) by lab 
-- Only user can assemble shards back into a full dataset (via private key?)
+- Only user can assemble shards back into a full data set (via private key?)
 - External users can get one-time, read-only access to the data if the user so chooses (via public key?)
-  - only metadata they bargained for 
+  - Only metadata they bargained for 
 - Data sharing is easy and transparent
 
 ## Features
 - Marketplace for data
-- DAO votes for reasearch targets for biomine core
+- DAO votes for research targets for Biomine research team
 - Get token for sharing data, know whom you share it with
 
 # Tasks
