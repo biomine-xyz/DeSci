@@ -34,7 +34,3 @@ More info: https://biomine.xyz/
 - Marketplace for data
 - DAO can vote on research targets for Biomine research team
 - Contributers (Bioneers) earn token for sharing data
-
-# Tasks
-- Learn about metabolomics (data)
-- Flesh out a concept 
